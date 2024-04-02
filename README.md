@@ -22,7 +22,7 @@ Site used to create
 
 ## Feedback
 
-If you have any feedback, please reach out using the official page of All The Content on the [Content Warning Modding](https://discord.gg/ZrKNyVyB) discord server.
+If you have any feedback, please reach out using the official page of All The Content on the [Content Warning Modding](https://discord.gg/E9ustG9Drx) discord server.
 
 
 ## 🚀 Github
