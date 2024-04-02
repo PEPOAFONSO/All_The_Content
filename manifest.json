@@ -1,6 +1,6 @@
 {
     "name": "All_The_Content",
-    "version_number": "1.1.4",
+    "version_number": "1.1.5",
     "website_url": "https://github.com/thunderstore-io",
     "description": "Just all the content. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
@@ -11,6 +11,9 @@
         "loaforc-Flashcard-0.0.1",
         "RamuneNeptune-VolumeBooster-1.0.0",
         "DiabolicalStudios-MoreCustomization-1.0.1",
-        "RamuneNeptune-MakeMeRagdoll-1.0.2"
+        "RamuneNeptune-MakeMeRagdoll-1.0.2",
+        "Hamunii-DetourContext_Dispose_Fix-1.0.1",
+        "Hamunii-AutoHookGenPatcher-1.0.0",
+        "RamuneNeptune-CustomVideoSaveLocation-1.0.0"
     ]
 }

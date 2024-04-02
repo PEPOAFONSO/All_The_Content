@@ -20,7 +20,11 @@ A modpack with all the content...
 * #### + MakeMeRagdoll Updated
  ### Version 1.1.4
 * #### + CWMouseWheel Updated
-
+ ### Version 1.1.5
+* #### + DetourContext Dispose Fix
+* #### + AutoHookGenPatcher
+* #### + CustomVideoSaveLocation
+* #### + New Logo
 ## License
 Site used to create
 [logo of the Modpack.](https://deepai.org/machine-learning-model/text2img)
