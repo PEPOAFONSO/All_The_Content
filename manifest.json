@@ -1,6 +1,6 @@
 {
     "name": "All_The_Content",
-    "version_number": "1.1.7",
+    "version_number": "1.1.8",
     "website_url": "https://github.com/thunderstore-io",
     "description": "Just all the content. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
@@ -15,6 +15,7 @@
         "Hamunii-DetourContext_Dispose_Fix-1.0.1",
         "Hamunii-AutoHookGenPatcher-1.0.0",
         "RamuneNeptune-CustomVideoSaveLocation-1.0.0",
-        "Wackery-CameraFPSChanger-1.0.0"
+        "Wackery-CameraFPSChanger-1.0.0",
+        "ViViKo-MoreColors-1.0.0"
     ]
 }

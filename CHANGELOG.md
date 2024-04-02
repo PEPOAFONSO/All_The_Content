@@ -16,5 +16,6 @@
 * ### + New Logo
  ## Version 1.1.6
 * ### + CameraFPSChanger
- ## Version 1.1.7
-* ### + VolumeBooster Updated
+ ## Version 1.1.8
+* ### + Changelog Added + Updated
+* ### + MoreColours
