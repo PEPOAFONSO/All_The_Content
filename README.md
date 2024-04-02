@@ -16,6 +16,8 @@ A modpack with all the content...
 * #### + README File
  ### Version 1.1.2
 * #### + README File Update
+ ### Version 1.1.3
+* #### + MakeMeRagdoll Updated
 
 ## License
 Site used to create
