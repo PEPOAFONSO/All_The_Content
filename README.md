@@ -10,10 +10,12 @@ A modpack with all the content...
 
 ## Changelog
 
- ## Version 1.1.0
+ ### Version 1.1.0
 * #### + RamuneNeptune-MakeMeRagdoll
- ## Version 1.1.1
+ ### Version 1.1.1
 * #### + README File
+ ### Version 1.1.2
+* #### + README File Update
 
 ## License
 Site used to create
