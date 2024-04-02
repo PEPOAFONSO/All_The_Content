@@ -25,10 +25,6 @@ A modpack with all the content...
 * #### + AutoHookGenPatcher
 * #### + CustomVideoSaveLocation
 * #### + New Logo
-## License
-Site used to create
-[logo of the Modpack.](https://deepai.org/machine-learning-model/text2img)
-
 
 ## Feedback
 
