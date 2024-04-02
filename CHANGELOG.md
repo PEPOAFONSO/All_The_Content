@@ -24,3 +24,5 @@
  ## Version 1.1.9
 * ### + Changelog + README Updated/Corrected
 * ### + Official BepInExConfigurationManager
+ ## Version 1.2.0
+* ### + CWMouseWheel Updated
