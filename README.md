@@ -32,6 +32,9 @@ A modpack with all the content...
  ### Version 1.1.8
 * #### + Changelog Added + Updated
 * #### + MoreColours
+ ### Version 1.1.9
+* #### + Changelog + README Updated/Corrected
+* #### + Official BepInExConfigurationManager
 
 ## Feedback
 
