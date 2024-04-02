@@ -29,6 +29,9 @@ A modpack with all the content...
 * #### + CameraFPSChanger
  ### Version 1.1.7
 * #### + VolumeBooster Updated
+ ### Version 1.1.8
+* #### + Changelog Added + Updated
+* #### + MoreColours
 
 ## Feedback
 
