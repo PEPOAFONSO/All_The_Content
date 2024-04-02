@@ -12,6 +12,9 @@ A modpack with all the content...
 
  ## Version 1.1.0
 * #### + RamuneNeptune-MakeMeRagdoll
+ ## Version 1.1.1
+* #### + README File
+
 ## License
 Site used to create
 [logo of the Modpack.](https://deepai.org/machine-learning-model/text2img)
