@@ -27,6 +27,8 @@ A modpack with all the content...
 * #### + New Logo
  ### Version 1.1.6
 * #### + CameraFPSChanger
+ ### Version 1.1.7
+* #### + VolumeBooster Updated
 
 ## Feedback
 
