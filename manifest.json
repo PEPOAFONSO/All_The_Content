@@ -1,6 +1,6 @@
 {
     "name": "All_The_Content",
-    "version_number": "1.1.5",
+    "version_number": "1.1.6",
     "website_url": "https://github.com/thunderstore-io",
     "description": "Just all the content. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
@@ -14,6 +14,7 @@
         "RamuneNeptune-MakeMeRagdoll-1.0.2",
         "Hamunii-DetourContext_Dispose_Fix-1.0.1",
         "Hamunii-AutoHookGenPatcher-1.0.0",
-        "RamuneNeptune-CustomVideoSaveLocation-1.0.0"
+        "RamuneNeptune-CustomVideoSaveLocation-1.0.0",
+        "Wackery-CameraFPSChanger-1.0.0"
     ]
 }

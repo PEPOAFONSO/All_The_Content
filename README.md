@@ -25,6 +25,8 @@ A modpack with all the content...
 * #### + AutoHookGenPatcher
 * #### + CustomVideoSaveLocation
 * #### + New Logo
+ ### Version 1.1.6
+* #### + CameraFPSChanger
 
 ## Feedback
 
