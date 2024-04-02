@@ -18,6 +18,8 @@ A modpack with all the content...
 * #### + README File Update
  ### Version 1.1.3
 * #### + MakeMeRagdoll Updated
+ ### Version 1.1.4
+* #### + CWMouseWheel Updated
 
 ## License
 Site used to create
