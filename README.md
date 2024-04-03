@@ -43,6 +43,11 @@ A modpack with all the content...
 * #### + PasteFromClipboard
 * #### + PublicHostFix
 * #### + Tyler1Goo
+ ### Version 1.2.2
+* #### + CWMouseWheel Updated
+* #### + VolumeBooster Updated
+* #### + MakeMeRagdoll Updated  
+* #### + CustomVideoSaveLocations Updated
 
 ## Feedback
 
