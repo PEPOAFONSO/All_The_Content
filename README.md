@@ -50,6 +50,8 @@ A modpack with all the content...
 * #### + CustomVideoSaveLocations Updated
  ### Version 1.2.3
 * #### + CWMouseWheel Updated
+ ### Version 1.2.4
+* #### + CWMouseWheel Updated
 
 ## Feedback
 
