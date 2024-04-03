@@ -37,6 +37,12 @@ A modpack with all the content...
 * #### + Official BepInExConfigurationManager
  ### Version 1.2.0
 * #### + CWMouseWheel Updated
+ ### Version 1.2.1
+* #### + MoreColours Updated
+* #### + Astro BetterSprint
+* #### + PasteFromClipboard
+* #### + PublicHostFix
+* #### + Tyler1Goo
 
 ## Feedback
 

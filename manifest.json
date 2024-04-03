@@ -1,6 +1,6 @@
 {
     "name": "All_The_Content",
-    "version_number": "1.2.0",
+    "version_number": "1.2.1",
     "website_url": "https://github.com/PEPOAFONSO/All_The_Content",
     "description": "Just all the content. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
@@ -8,7 +8,7 @@
         "zatrit-CWMouseWheel-1.0.2",
         "RamuneNeptune-SkipIntroScreen-1.0.0",
         "MaxWasUnavailable-Virality-1.0.2",
-        "loaforc-Flashcard-0.0.1",
+        "loaforc-Flashcard-0.2.0",
         "RamuneNeptune-VolumeBooster-1.0.1",
         "DiabolicalStudios-MoreCustomization-1.0.1",
         "RamuneNeptune-MakeMeRagdoll-1.0.2",
@@ -16,7 +16,11 @@
         "Hamunii-AutoHookGenPatcher-1.0.0",
         "RamuneNeptune-CustomVideoSaveLocation-1.0.0",
         "Wackery-CameraFPSChanger-1.0.0",
-        "ViViKo-MoreColors-1.0.0",
-        "Azumatt-Official_BepInExConfigurationManager-18.2.0"
+        "ViViKo-MoreColors-1.0.1",
+        "Azumatt-Official_BepInExConfigurationManager-18.2.0",
+        "Astro-BetterSprint-0.0.2",
+        "Azumatt-PasteFromClipboard-1.0.1",
+        "lazypatching-PublicHostingFix-1.0.0",
+        "SteamBlizzard-Tyler1Goo-1.0.0"
     ]
 }
