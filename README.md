@@ -52,6 +52,11 @@ A modpack with all the content...
 * #### + CWMouseWheel Updated
  ### Version 1.2.4
 * #### + CWMouseWheel Updated
+ ### Version 1.2.5
+* #### + MoreCustomization Updated
+* #### + MoreColours Updated
+* #### + SimpleChat
+* #### + CustomFov
 
 ## Feedback
 
