@@ -48,6 +48,8 @@ A modpack with all the content...
 * #### + VolumeBooster Updated
 * #### + MakeMeRagdoll Updated  
 * #### + CustomVideoSaveLocations Updated
+ ### Version 1.2.3
+* #### + CWMouseWheel Updated
 
 ## Feedback
 
