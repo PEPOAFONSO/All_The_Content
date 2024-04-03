@@ -60,7 +60,7 @@ A modpack with all the content...
 
 ## Feedback
 
-If you have any feedback, please reach out using the official page of All The Content on the [Content Warning Modding](https://discord.gg/E9ustG9Drx) discord server.
+If you have any feedback, please reach out using the official page of All The Content on the [Content Warning Modding](https://discord.gg/yeGDSm4gFq) discord server.
 
 
 ## 🚀 Github
