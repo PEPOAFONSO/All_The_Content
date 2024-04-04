@@ -1,11 +1,11 @@
 {
     "name": "All_The_Content",
-    "version_number": "1.2.6",
+    "version_number": "1.2.7",
     "website_url": "https://github.com/PEPOAFONSO/All_The_Content",
     "description": "Just all the content configured and ready to be played easily. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "zatrit-CWMouseWheel-1.0.6",
+        "zatrit-CWMouseWheel-1.0.7",
         "RamuneNeptune-SkipIntroScreen-1.0.0",
         "MaxWasUnavailable-Virality-1.0.2",
         "loaforc-Flashcard-0.2.0",
@@ -24,7 +24,6 @@
         "SteamBlizzard-Tyler1Goo-1.0.0",
         "maysunrise-SimpleChat-1.0.0",
         "Fleig-CustomFov-1.0.0",
-        "bananaturtlesandwich-SuitColours-1.0.2",
         "bogcorp-ContentWarningRichPresence-1.1.2",
         "CommanderCat101-ContentSettings-0.0.1",
         "GamingFrame-More_Comments-1.0.1"

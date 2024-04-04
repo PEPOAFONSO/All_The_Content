@@ -66,6 +66,10 @@ A modpack with all the content...
 * #### + SuitColours
 * #### + ContentSettings
 * #### + More_Comments
+* #### + Configs Updated
+ ### Version 1.2.7
+* #### + CWMouseWheel Updated
+* #### - SuitColours
 
 ## Feedback
 

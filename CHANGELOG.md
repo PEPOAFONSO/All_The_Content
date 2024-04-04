@@ -55,3 +55,6 @@
 * ### + SuitColours
 * ### + ContentSettings
 * ### + More_Comments
+ ## Version 1.2.7
+* ### + CWMouseWheel Updated
+* ### - SuitColours
