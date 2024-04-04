@@ -20,7 +20,7 @@
 * ### + VolumeBooster Updated
  ## Version 1.1.8
 * ### + Changelog Added + Updated
-* ### + MoreColours
+* ### + MoreColors
  ## Version 1.1.9
 * ### + Changelog + README Updated/Corrected
 * ### + Official BepInExConfigurationManager
@@ -43,7 +43,7 @@
 * ### + CWMouseWheel Updated
  ## Version 1.2.5
 * ### + MoreCustomization Updated
-* ### + MoreColours Updated
+* ### + MoreColors Updated
 * ### + SimpleChat
 * ### + CustomFov
  ## Version 1.2.6
@@ -58,3 +58,7 @@
  ## Version 1.2.7
 * ### + CWMouseWheel Updated
 * ### - SuitColours
+ ## Version 1.2.8
+* ### + CWMouseWheel Updated
+* ### + MoreColours Updated
+* ### + More_Comment Updated

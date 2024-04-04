@@ -1,11 +1,11 @@
 {
     "name": "All_The_Content",
-    "version_number": "1.2.7",
+    "version_number": "1.2.8",
     "website_url": "https://github.com/PEPOAFONSO/All_The_Content",
     "description": "Just all the content configured and ready to be played easily. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "zatrit-CWMouseWheel-1.0.7",
+        "zatrit-CWMouseWheel-1.0.8",
         "RamuneNeptune-SkipIntroScreen-1.0.0",
         "MaxWasUnavailable-Virality-1.0.2",
         "loaforc-Flashcard-0.2.0",
@@ -16,7 +16,7 @@
         "Hamunii-AutoHookGenPatcher-1.0.1",
         "RamuneNeptune-CustomVideoSaveLocation-1.0.10",
         "Wackery-CameraFPSChanger-1.0.0",
-        "ViViKo-MoreColors-1.2.0",
+        "ViViKo-MoreColors-1.3.0",
         "Azumatt-Official_BepInExConfigurationManager-18.2.0",
         "Astro-BetterSprint-0.0.2",
         "Azumatt-PasteFromClipboard-1.0.1",
@@ -26,6 +26,6 @@
         "Fleig-CustomFov-1.0.0",
         "bogcorp-ContentWarningRichPresence-1.1.2",
         "CommanderCat101-ContentSettings-0.0.1",
-        "GamingFrame-More_Comments-1.0.1"
+        "GamingFrame-More_Comments-1.1.0"
     ]
 }
