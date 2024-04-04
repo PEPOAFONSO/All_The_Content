@@ -57,6 +57,15 @@ A modpack with all the content...
 * #### + MoreColours Updated
 * #### + SimpleChat
 * #### + CustomFov
+ ### Version 1.2.6
+* #### + MoreCustomization Updated
+* #### + MoreColours Updated
+* #### + DetourContext_Dispose_Fix Updated
+* #### + AutoHookGenPatcher Updated
+* #### + ContentWarningRichPresence
+* #### + SuitColours
+* #### + ContentSettings
+* #### + More_Comments
 
 ## Feedback
 

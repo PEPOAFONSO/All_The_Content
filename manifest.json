@@ -1,6 +1,6 @@
 {
     "name": "All_The_Content",
-    "version_number": "1.2.5",
+    "version_number": "1.2.6",
     "website_url": "https://github.com/PEPOAFONSO/All_The_Content",
     "description": "Just all the content configured and ready to be played easily. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
@@ -10,19 +10,23 @@
         "MaxWasUnavailable-Virality-1.0.2",
         "loaforc-Flashcard-0.2.0",
         "RamuneNeptune-VolumeBooster-1.0.10",
-        "DiabolicalStudios-MoreCustomization-1.0.2",
+        "DiabolicalStudios-MoreCustomization-1.0.3",
         "RamuneNeptune-MakeMeRagdoll-1.0.20",
-        "Hamunii-DetourContext_Dispose_Fix-1.0.1",
-        "Hamunii-AutoHookGenPatcher-1.0.0",
+        "Hamunii-DetourContext_Dispose_Fix-1.0.2",
+        "Hamunii-AutoHookGenPatcher-1.0.1",
         "RamuneNeptune-CustomVideoSaveLocation-1.0.10",
         "Wackery-CameraFPSChanger-1.0.0",
-        "ViViKo-MoreColors-1.1.0",
+        "ViViKo-MoreColors-1.2.0",
         "Azumatt-Official_BepInExConfigurationManager-18.2.0",
         "Astro-BetterSprint-0.0.2",
         "Azumatt-PasteFromClipboard-1.0.1",
         "lazypatching-PublicHostingFix-1.0.0",
         "SteamBlizzard-Tyler1Goo-1.0.0",
         "maysunrise-SimpleChat-1.0.0",
-        "Fleig-CustomFov-1.0.0"
+        "Fleig-CustomFov-1.0.0",
+        "bananaturtlesandwich-SuitColours-1.0.2",
+        "bogcorp-ContentWarningRichPresence-1.1.2",
+        "CommanderCat101-ContentSettings-0.0.1",
+        "GamingFrame-More_Comments-1.0.1"
     ]
 }
