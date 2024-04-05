@@ -5,7 +5,7 @@
     "description": "Just all the content configured and ready to be played easily. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "zatrit-CWMouseWheel-1.0.12",
+        "zatrit-CWMouseWheel-1.0.14",
         "RamuneNeptune-SkipIntroScreen-1.0.0",
         "MaxWasUnavailable-Virality-1.0.2",
         "loaforc-Flashcard-0.3.0",
