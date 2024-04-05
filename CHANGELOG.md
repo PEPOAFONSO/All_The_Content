@@ -73,3 +73,9 @@
 * ### + CaughtIn4K
 * ### + Video_Converter
 * ### + loaforcsSoundAPI
+ ## Version 1.3.0
+* ### + CWMouseWheel Updated
+* ### + DetourContext_Dispose_Fix_Updated
+* ### + MoreSounds
+* ### + InputAPI
+* ### + ExtraItems
