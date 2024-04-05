@@ -1,6 +1,6 @@
 {
     "name": "All_The_Content",
-    "version_number": "1.2.8",
+    "version_number": "1.2.9",
     "website_url": "https://github.com/PEPOAFONSO/All_The_Content",
     "description": "Just all the content configured and ready to be played easily. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
@@ -8,12 +8,12 @@
         "zatrit-CWMouseWheel-1.0.8",
         "RamuneNeptune-SkipIntroScreen-1.0.0",
         "MaxWasUnavailable-Virality-1.0.2",
-        "loaforc-Flashcard-0.2.0",
+        "loaforc-Flashcard-0.3.0",
         "RamuneNeptune-VolumeBooster-1.0.10",
         "DiabolicalStudios-MoreCustomization-1.0.3",
         "RamuneNeptune-MakeMeRagdoll-1.0.20",
         "Hamunii-DetourContext_Dispose_Fix-1.0.2",
-        "Hamunii-AutoHookGenPatcher-1.0.1",
+        "Hamunii-AutoHookGenPatcher-1.0.2",
         "RamuneNeptune-CustomVideoSaveLocation-1.0.10",
         "Wackery-CameraFPSChanger-1.0.0",
         "ViViKo-MoreColors-1.3.0",
@@ -26,6 +26,13 @@
         "Fleig-CustomFov-1.0.0",
         "bogcorp-ContentWarningRichPresence-1.1.2",
         "CommanderCat101-ContentSettings-0.0.1",
-        "GamingFrame-More_Comments-1.1.0"
+        "GamingFrame-More_Comments-1.1.0",
+        "Froj-Diving_Bell_Tweaks-1.1.1",
+        "CWModder-Extended_Player_Names-1.0.0",
+        "AllToasters-ContentSpectateEnemies-1.0.0",
+        "RugbugRedfern-MyceliumNetworking-1.0.1",
+        "SlenLen-CaughtIn4K-0.0.2",
+        "BreadSoup-Video_Converter-1.1.0",
+        "loaforc-loaforcsSoundAPI_CW-1.0.6"
     ]
 }

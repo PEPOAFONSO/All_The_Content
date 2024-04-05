@@ -62,3 +62,14 @@
 * ### + CWMouseWheel Updated
 * ### + MoreColours Updated
 * ### + More_Comment Updated
+ ## Version 1.2.9
+* ### + Flashcard Updated
+* ### + AutoGookGenPatcher Updated
+* ### + MoreColors
+* ### + Diving_Bell_Tweaks  
+* ### + Extended_Player_Names
+* ### + ContentSpectateEnemies
+* ### + MyceliumNetworking
+* ### + CaughtIn4K
+* ### + Video_Converter
+* ### + loaforcsSoundAPI
