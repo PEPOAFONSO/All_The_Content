@@ -91,6 +91,16 @@ A modpack with all the content...
 * #### + MoreSounds
 * #### + InputAPI
 * #### + ExtraItems
+ ### Version 1.3.1
+* #### + CWMouseWheel Updated
+* #### + MoreColors Updated
+* #### + ContentSettings Updated
+* #### + Extended_Player_Names Updated
+* #### + ContentSpectateEnemies Updated
+* #### + MoreSounds Updated
+* #### + CustomSoundboards Updated
+* #### + VoiceRecognitionAPI
+* #### - PublicHostingFix
 
 
 ## Feedback
