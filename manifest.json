@@ -1,6 +1,6 @@
 {
     "name": "All_The_Content",
-    "version_number": "1.3.1",
+    "version_number": "1.3.2",
     "website_url": "https://github.com/PEPOAFONSO/All_The_Content",
     "description": "Just all the content configured and ready to be played easily. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
@@ -10,7 +10,7 @@
         "MaxWasUnavailable-Virality-1.0.2",
         "loaforc-Flashcard-0.3.0",
         "RamuneNeptune-VolumeBooster-1.0.10",
-        "DiabolicalStudios-MoreCustomization-1.0.3",
+        "DiabolicalStudios-MoreCustomization-1.0.5",
         "RamuneNeptune-MakeMeRagdoll-1.0.20",
         "Hamunii-DetourContext_Dispose_Fix-1.0.3",
         "Hamunii-AutoHookGenPatcher-1.0.2",
@@ -31,13 +31,17 @@
         "AllToasters-ContentSpectateEnemies-1.1.0",
         "RugbugRedfern-MyceliumNetworking-1.0.1",
         "SlenLen-CaughtIn4K-0.0.2",
-        "BreadSoup-Video_Converter-1.1.0",
+        "BreadSoup-Video_Converter-1.1.1",
         "loaforc-loaforcsSoundAPI_CW-1.0.6",
         "ViViKo-MoreSounds-1.0.1",
-        "CTWOriginals-CrossHair-1.0.1",
+        "CTWOriginals-CrossHair-1.1.0",
         "Ryokune-InputAPI-1.0.0",
         "Toedtmanns-ExtraItems-1.0.0",
         "AnthonyStai-CustomSoundboards-1.0.1",
-        "Notest-VoiceRecognitionAPI-1.2.1"
+        "Notest-VoiceRecognitionAPI-1.2.1",
+        "ViViKo-BetterFaceRotation-1.0.0",
+       "Skinwalker-SkinwalkersAdditionalSounds-1.0.1",
+       "www_Day_Dream-Shuv-0.2.0",
+       "hyydsz-Boombox-1.0.3"
     ]
 }

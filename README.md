@@ -101,6 +101,14 @@ A modpack with all the content...
 * #### + CustomSoundboards Updated
 * #### + VoiceRecognitionAPI
 * #### - PublicHostingFix
+ ### Version 1.3.2
+* #### + MoreCustomization Updated
+* #### + Video_Converter Updated
+* #### + CrossHair Updated
+* #### + BetterFaceRotation
+* #### + SkinwalkersAdditionalSounds
+* #### + Shuv
+* #### + Boombox
 
 
 ## Feedback
