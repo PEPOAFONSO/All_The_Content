@@ -97,3 +97,18 @@
 * ### + SkinwalkersAdditionalSounds
 * ### + Shuv
 * ### + Boombox
+ ## Version 1.3.3
+* ### + CWMouseWheel Updated
+* ### + Flashcard Updated
+* ### + MakeMeRagdoll Updated
+* ### + MoreColors Updated
+* ### + More_Comments Updated
+* ### + MyceliumNetworking Updated
+* ### - Boombox
+* ### + ContentSpectateEnemies Updated
+* ### + DeathStatus
+* ### + ShopUtils
+* ### + BarchLib
+* ### + ConfigurableWarning
+* ### + FunnyProjector
+* ### + MoreProjections
