@@ -3,7 +3,7 @@
 
 ## Description
 
-A modpack with all the content...
+Just all the content configured and ready to be played easily. Attention: The Modpack could stop working due to constant updates of the game!
 
 
 
@@ -124,6 +124,29 @@ A modpack with all the content...
 * #### + ConfigurableWarning
 * #### + FunnyProjector
 * #### + MoreProjections
+ ### Version 1.3.4
+* #### + Virality Updated
+* #### + MoreColors Updated
+* #### + Azumatt-Official_BepInExConfigurationManager Updated
+* #### + MoreColors Updated
+* #### + More_Comments Updated
+* #### + MyceliumNetworking Updated
+* #### + MoreSounds Updated
+* #### + InputAPI Updated
+* #### + BetterFaceRotation Updated
+* #### + Shuv Updated
+* #### + ShopUtils Updated
+* #### + ConfigurableWarning Updated
+* #### + FunnyProjector Updated
+* #### + MoreProjections Updated
+* #### + Boombox
+* #### + WarningMusic
+* #### + BruhBoombox
+* #### + ContentTunes
+* #### + MoreSettings
+* #### + Shrobysmemetunes
+* #### + Mirage
+* #### + SillyItems
 
 
 ## Feedback

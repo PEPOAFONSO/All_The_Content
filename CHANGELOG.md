@@ -112,3 +112,26 @@
 * ### + ConfigurableWarning
 * ### + FunnyProjector
 * ### + MoreProjections
+ ## Version 1.3.4
+* ### + Virality Updated
+* ### + MoreColors Updated
+* ### + Azumatt-Official_BepInExConfigurationManager Updated
+* ### + MoreColors Updated
+* ### + More_Comments Updated
+* ### + MyceliumNetworking Updated
+* ### + MoreSounds Updated
+* ### + InputAPI Updated
+* ### + BetterFaceRotation Updated
+* ### + Shuv Updated
+* ### + ShopUtils Updated
+* ### + ConfigurableWarning Updated
+* ### + FunnyProjector Updated
+* ### + MoreProjections Updated
+* ### + Boombox
+* ### + WarningMusic
+* ### + BruhBoombox
+* ### + ContentTunes
+* ### + MoreSettings
+* ### + Shrobysmemetunes
+* ### + Mirage
+* ### + SillyItems
