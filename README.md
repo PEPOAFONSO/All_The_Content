@@ -147,6 +147,25 @@ Just all the content configured and ready to be played easily. Attention: The Mo
 * #### + Shrobysmemetunes
 * #### + Mirage
 * #### + SillyItems
+* #### - ExtraItems
+* #### - VideoConverter
+ ### Version 1.3.5
+* #### + AutoHookGenPatcher Updated
+* #### + ContentSettings Updated
+* #### + ContentSpectateEnemies Updated
+* #### + MyceliumNetworking Updated
+* #### + SkinwalkersAdditionalSounds Updated
+* #### + Shuv Updated
+* #### + ShopUtils Updated
+* #### + InputAPI Updated
+* #### + BetterFaceRotation Updated
+* #### + Shuv Updated
+* #### + ShopUtils Updated
+* #### + ConfigurableWarning Updated
+* #### + Boombox Updated
+* #### + Mirage Updated
+* #### + TheBestMusic
+* #### + ShopTweaks
 
 
 ## Feedback

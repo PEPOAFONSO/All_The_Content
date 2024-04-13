@@ -135,3 +135,22 @@
 * ### + Shrobysmemetunes
 * ### + Mirage
 * ### + SillyItems
+* ### - ExtraItems
+* ### - VideoConverter
+ ## Version 1.3.5
+* ### + AutoHookGenPatcher Updated
+* ### + ContentSettings Updated
+* ### + ContentSpectateEnemies Updated
+* ### + MyceliumNetworking Updated
+* ### + SkinwalkersAdditionalSounds Updated
+* ### + Shuv Updated
+* ### + ShopUtils Updated
+* ### + InputAPI Updated
+* ### + BetterFaceRotation Updated
+* ### + Shuv Updated
+* ### + ShopUtils Updated
+* ### + ConfigurableWarning Updated
+* ### + Boombox Updated
+* ### + Mirage Updated
+* ### + TheBestMusic
+* ### + ShopTweaks
