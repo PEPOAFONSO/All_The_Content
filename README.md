@@ -1,12 +1,13 @@
 
 <h1>All The Content</h1>
 
-<a img src="" alt="Banner">
+<a img src="https://raw.githubusercontent.com/PEPOAFONSO/All_The_Content/main/images/banner.png" alt="Banner">
 </a>
 <br>
 
 <a href="https://thunderstore.io/c/content-warning/p/Modpack_Warning/All_The_Content/">
-<img src="" alt="download_button" >
+<img src="https://raw.githubusercontent.com/PEPOAFONSO/All_The_Content/93767caacd036140295a2ca4afeb6067a8507fbf/images/download.svg" alt="download_button">
+</a>
 
 ## Description
 
