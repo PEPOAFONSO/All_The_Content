@@ -170,3 +170,5 @@
 * ### + Toggle_Mute
 * ### + More_Saves
 * ### + 2WORLDS
+ ## Version 1.3.7
+ * ### + README Updated

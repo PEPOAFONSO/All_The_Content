@@ -1,14 +1,23 @@
 
-# All The Content
+<h1>All The Content</h1>
+
+<a img src="" alt="Banner">
+</a>
+<br>
+
+<a href="https://thunderstore.io/c/content-warning/p/Modpack_Warning/All_The_Content/">
+<img src="" alt="download_button" >
 
 ## Description
 
 Just all the content configured and ready to be played easily. Attention: The Modpack could stop working due to constant updates of the game!
 
 
-
-
 ## Changelog
+
+<details>
+<summary>SHOW ᐁ</summary>
+<ul><li>
 
  ### Version 1.1.0
 * #### + RamuneNeptune-MakeMeRagdoll
@@ -182,7 +191,10 @@ Just all the content configured and ready to be played easily. Attention: The Mo
 * #### + Toggle_Mute
 * #### + More_Saves
 * #### + 2WORLDS
-
+ ### Version 1.3.7
+ * #### + README Updated
+</li></ul>
+</details>
 
 
 ## Feedback
