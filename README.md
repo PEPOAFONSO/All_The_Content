@@ -1,12 +1,12 @@
 
 <h1>All The Content</h1>
 
-<a img src="https://raw.githubusercontent.com/PEPOAFONSO/All_The_Content/main/images/banner.png" alt="Banner">
-</a>
+<img src="https://raw.githubusercontent.com/PEPOAFONSO/All_The_Content/main/images/banner.png" alt="Banner">
+
 <br>
 
 <a href="https://thunderstore.io/c/content-warning/p/Modpack_Warning/All_The_Content/">
-<img src="https://raw.githubusercontent.com/PEPOAFONSO/All_The_Content/93767caacd036140295a2ca4afeb6067a8507fbf/images/download.svg" alt="download_button">
+<img src="https://raw.githubusercontent.com/PEPOAFONSO/All_The_Content/93767caacd036140295a2ca4afeb6067a8507fbf/images/download.svg" alt="download_button" widht="230">
 </a>
 
 ## Description
@@ -17,7 +17,7 @@ Just all the content configured and ready to be played easily. Attention: The Mo
 ## Changelog
 
 <details>
-<summary>SHOW ᐁ</summary>
+<summary>SHOW</summary>
 <ul><li>
 
  ### Version 1.1.0
@@ -193,6 +193,8 @@ Just all the content configured and ready to be played easily. Attention: The Mo
 * #### + More_Saves
 * #### + 2WORLDS
  ### Version 1.3.7
+ * #### + README Updated
+  ### Version 1.3.8
  * #### + README Updated
 </li></ul>
 </details>
