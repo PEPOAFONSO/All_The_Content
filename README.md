@@ -166,6 +166,23 @@ Just all the content configured and ready to be played easily. Attention: The Mo
 * #### + Mirage Updated
 * #### + TheBestMusic
 * #### + ShopTweaks
+ ### Version 1.3.6
+* #### + CustomFov Updated
+* #### + Shuv Updated
+* #### + ShopUtils Updated
+* #### + ConfigurableWarning Updated
+* #### + Boombox Updated
+* #### + MoreSettings Updated
+* #### + SillyItems Updated
+* #### + Musicas_Fixes
+* #### + Lockdown
+* #### + LethalCompanyBoombox
+* #### + IceBlaze_Boombox_Music 
+* #### + BetterThrowing 
+* #### + Toggle_Mute
+* #### + More_Saves
+* #### + 2WORLDS
+
 
 
 ## Feedback
