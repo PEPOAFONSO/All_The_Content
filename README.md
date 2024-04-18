@@ -3,9 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/PEPOAFONSO/All_The_Content/main/images/banner.png" alt="Banner">
 
-</br>
-
-<a href="https://thunderstore.io/c/content-warning/p/Modpack_Warning/All_The_Content/">
+</br><a href="https://thunderstore.io/c/content-warning/p/Modpack_Warning/All_The_Content/">
 <img src="https://raw.githubusercontent.com/PEPOAFONSO/All_The_Content/93767caacd036140295a2ca4afeb6067a8507fbf/images/download.svg" alt="download_button" width="230">
 </a>
 
@@ -198,6 +196,17 @@ Just all the content configured and ready to be played easily. Attention: The Mo
  * #### + README Updated
    ### Version 1.3.9
  * #### + README Updated
+  ### Version 1.4.0
+  * #### + README Updated
+  * #### + Virality Updated
+  * #### + Shuv Updated
+  * #### + SillyItems Updated
+  * #### + Musicas_Fixes Updated
+  * #### + IceBlaze_Boombox_Music Updated
+  * #### + SkipIntroScreen Updated
+  * #### + SnoringWarning
+  * #### + BetterSpectate
+  * #### + Fall_Fix
 </li></ul>
 </details>
 

@@ -174,5 +174,18 @@
  * ### + README Updated
   ## Version 1.3.8
  * ### + README Updated
-   ## Version 1.3.8
+  ## Version 1.3.8
  * ### + README Updated
+  ## Version 1.3.9
+ * ### + README Updated
+  ## Version 1.4.0
+  * ### + README Updated
+  * ### + Virality Updated
+  * ### + Shuv Updated
+  * ### + SillyItems Updated
+  * ### + Musicas_Fixes Updated
+  * ### + IceBlaze_Boombox_Music Updated
+  * ### + SkipIntroScreen Updated
+  * ### + SnoringWarning
+  * ### + BetterSpectate
+  * ### + Fall_Fix
