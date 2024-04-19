@@ -189,3 +189,11 @@
   * ### + SnoringWarning
   * ### + BetterSpectate
   * ### + Fall_Fix
+    ## Version 1.4.1
+  * ### + Mirage Updated
+  * ### - IceBlaze_Boombox_Music
+  * ### - ConfigurableWarning
+  * ### + ContentLibrary
+  * ### + CWEnumUtils
+  * ### + FoundFootage
+  * ### + LimeMusic

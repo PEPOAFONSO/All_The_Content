@@ -207,6 +207,14 @@ Just all the content configured and ready to be played easily. Attention: The Mo
   * #### + SnoringWarning
   * #### + BetterSpectate
   * #### + Fall_Fix
+    ### Version 1.4.1
+  * #### + Mirage Updated
+  * #### - IceBlaze_Boombox_Music
+  * #### - ConfigurableWarning
+  * #### + ContentLibrary
+  * #### + CWEnumUtils
+  * #### + FoundFootage
+  * #### + LimeMusic
 </li></ul>
 </details>
 
@@ -218,4 +226,3 @@ If you have any feedback, please reach out using the official page of All The Co
 
 ## 🚀 Github
 The [official page](https://github.com/PEPOAFONSO/All_The_Content) of the modpack.
-

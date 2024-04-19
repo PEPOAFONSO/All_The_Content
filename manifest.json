@@ -1,6 +1,6 @@
 {
     "name": "All_The_Content",
-    "version_number": "1.4.0",
+    "version_number": "1.4.1",
     "website_url": "https://github.com/PEPOAFONSO/All_The_Content",
     "description": "Just all the content configured and ready to be played easily. Attention: The Modpack could stop working due to constant updates of the game!",
     "dependencies": [
@@ -42,7 +42,6 @@
         "Clementinise-DeathStatus-1.0.0",
         "hyydsz-ShopUtils-1.0.8",
         "cw_qwbarch-BarchLib-1.0.1",
-        "RedstoneWizard08-ConfigurableWarning-1.8.1",
         "zatrit-FunnyProjector-1.0.6",
         "ViViKo-MoreProjections-1.1.1",
         "hyydsz-Boombox-1.1.2",
@@ -51,20 +50,24 @@
         "randommusic-ContentTunes-1.1.0",
         "Jasson9-MoreSettings-0.2.0",
         "Tobicoby-Shrobysmemetunes-1.1.1",
-        "cw_qwbarch-Mirage-1.2.1",
+        "cw_qwbarch-Mirage-1.2.2",
         "Arargd-SillyItems-0.3.0",
         "JUSTMEMYSELF-TheBestMusic-1.0.3",
         "ViViKo-ShopTweaks-1.0.1",
         "M4rt1m_4067-Musicas_Fixes-1.0.1",
         "www_Day_Dream-Lockdown-0.1.0",
         "Willay-LethalCompanyBoombox-1.0.4",
-        "Ice_Blaze-IceBlaze_Boombox_Music-1.0.1",
+        "Wudeczkownia-KinoMusic-1.1.0",
         "nickklmao-BetterThrowing-1.0.1",
         "Computery-Toggle_Mute-1.0.0",
         "Isbjorn52-More_Saves-1.0.1",
         "TriQ-2WORLDS-1.0.1",
         "cyclozarin-SnoringWarning-1.0.0",
         "funfoxrr-BetterSpectate-1.0.1",
-        "Computery-Fall_Fix-1.0.1"
+        "Computery-Fall_Fix-1.0.1",
+        "Notest-ContentLibrary-0.11.1",
+        "MegaPiggy-CWEnumUtils-1.0.3",
+        "Assasans-FoundFootage-0.3.0",
+        "LimeSkillZ-LimeMusic-1.1.1"
     ]
 }
