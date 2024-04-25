@@ -189,7 +189,7 @@
   * ### + SnoringWarning
   * ### + BetterSpectate
   * ### + Fall_Fix
-    ## Version 1.4.1
+  ## Version 1.4.1
   * ### + Mirage Updated
   * ### - IceBlaze_Boombox_Music
   * ### - ConfigurableWarning
@@ -197,3 +197,17 @@
   * ### + CWEnumUtils
   * ### + FoundFootage
   * ### + LimeMusic
+  ## Version 1.4.2
+  * ### + MakeMeRagdoll Updated
+  * ### + ContentSettings Updated
+  * ### + Mirage Updated
+  * ### + LethalCompanyBoombox Updated
+  * ### + LongRangeReload
+  * ### + CessilCellsCeaChells
+  * ### + GadgetTweaks
+  * ### + Nameplates
+  * ### + SFXMixerPatch
+  * ### + VoiceContent
+  * ### + VoiceRecognitionAPI
+  * ### + CameraLocator
+  * ### + EmoteWheel
