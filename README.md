@@ -1,5 +1,5 @@
 
-<h1>All The Content</h1>
+<h1>[DEPRECATED] All The Content</h1>
 
 <img src="https://raw.githubusercontent.com/PEPOAFONSO/All_The_Content/main/images/banner.png" alt="Banner">
 
